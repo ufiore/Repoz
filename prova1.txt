@@ -1,4 +1,4 @@
-ciao
+ciao,,,,
 
 Ehi!! Umberto come va?
 blah blah blah
@@ -6,4 +6,14 @@ a
 Ciao Umberto
 mi sto annoiando tantissimo
 Ciao, sono Marco Bioletto
+<<<<<<< HEAD
 Hello Davide ed Umberto
+=======
+Come state!!!!!!!!!!!
+bla bla bla bla bla bla bla bla bla bla 
+buh
+ehila
+
+Ciao, sono Marco Bioletto
+
+>>>>>>> ad0c2fac3b34c7dd96e5233b3ca288e19015a872
